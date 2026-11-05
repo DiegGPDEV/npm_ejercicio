@@ -17,6 +17,6 @@ If you are developing a production application, we recommend using TypeScript wi
 
 ## Capturas de pantallas de los confettis y la escena 3d
 
-![react confetti](./capturas/react-confetti.png)
-![canvas confetti](./capturas/canvas-confetti.png)
-![escena](./capturas/escena-3d.png)
+![react confetti](./cap/npm%20react/Captura%20de%20pantalla%20-2026-11-05%2012-49-20.png)
+![canvas confetti](./cap/npm%20react/Captura%20de%20pantalla%20-2026-11-05%2013-11-54.png)
+![escena](./cap/npm%20react/Captura%20de%20pantalla%20-2026-11-05%2013-41-22.png)
