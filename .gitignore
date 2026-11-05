@@ -1,0 +1,26 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+#Carpeta para omitir 1,Suele volverse extremadamente pesada porque incluye no solo las librerías que tú pides, sino también todas las herramientas internas que esas librerías necesitan para funcionar
+node_modules
+#Carpeta para omitor 2,Genera conflictos de código imposibles de resolver, ensucia el historial de cambios con código comprimido y satura el tamaño del repositorio innecesariamente. 
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
